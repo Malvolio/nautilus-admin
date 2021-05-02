@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-    "scripts": {
-	"dev": "node index.js",
-	"build": "cp -r public/. build"
-    },
+  "scripts": {
+    "dev": "node index.js",
+    "build": "cp -r public/. build"
+  },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "netlify-cms-proxy-server": "^1.3.13"
   }
 }
