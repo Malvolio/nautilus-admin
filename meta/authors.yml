@@ -2,3 +2,8 @@ authors:
   - name: Maria Deresh
     slug: deresh-m
     introduction: Maria Deresh is a writer.
+  - slug: wutali
+    name: Takahiro Fujiwara
+    introduction:
+      Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
+      Python / Golang / React
